@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+	<key>PayloadContent</key>
+	<array>
+	    <dict>
+	        <key>PayloadCertificateFileName</key>
+            <string>mitmproxy.cer</string>
+	        <key>PayloadDisplayName</key>
+			<string>WiFi Proxy</string>
+			<key>PayloadEnabled</key>
+			<true/>
+		    <key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadDescription</key>
+            <string>Adds a CA root certificate</string>
+            <key>PayloadDisplayName</key>
+            <string>mitmproxy</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.security.root.AF508DFB-B13E-4A5B-ACCA-CC307E503E9D</string>
+            <key>PayloadType</key>
+            <string>com.apple.security.root</string>
+            <key>PayloadUUID</key>
+            <string>AF508DFB-B13E-4A5B-ACCA-CC307E503E9D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+			<key>PayloadContent</key>
+			<data>
+			    LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURvVENDQW9tZ0F3SUJBZ0lHRGJlRjBJUjVNQTBHQ1NxR1NJYjNEUUVCQ3dVQU1DZ3hFakFRQmdOVkJBTU0KQ1cxcGRHMXdjbTk0ZVRFU01CQUdBMVVFQ2d3SmJXbDBiWEJ5YjNoNU1CNFhEVEUzTVRBeE5ESXdOVGcwTVZvWApEVEl3TVRBeE5USXdOVGcwTVZvd0tERVNNQkFHQTFVRUF3d0piV2wwYlhCeWIzaDVNUkl3RUFZRFZRUUtEQWx0CmFYUnRjSEp2ZUhrd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFS0FvSUJBUUQ0YUN0Syt4b2MKSE9ieitMUGt6dE01ZTZpQVdYWmhJZnd4S3FwVVpvanJHVUt3aTJLMmQ2V3h5aEl0blR0V1FjdkEvRVhpR21NLwpWQVV0dkRxWGo0ZThqZFFVZ3ZCbEVCVHM3dzV4Z2hyZzg4endCb1JKWm5tUnVaWnFSS0lkRUh3aFphR1FwK3kyCm5xNmp2WGs2Y1NTdSt2a3NQcTZmdndBQkNDUllZOVByRW1MTElVZmp3eGU0Q1VuZVVod2pVdEt1VXg5NjRwdEQKNWZ6SWliK1VGSHlaRU4yejl3ME9XbUlLZzBrVVB1K1M4bS91bU9hN1k0cjJEK0tQV3p0UTdVZHY0Y2k1MDVtMwo4S1VUUDljZk9pM1lyUFFYQzdnRDRNRitVVkVnMWJVelVFbmtGb1NEUUcrNDBCSWI1NmVyS3B4MWRVWmFuSEhyClovRllQOXFMbTJyekFnTUJBQUdqZ2RBd2djMHdEd1lEVlIwVEFRSC9CQVV3QXdFQi96QVJCZ2xnaGtnQmh2aEMKQVFFRUJBTUNBZ1F3ZUFZRFZSMGxCSEV3YndZSUt3WUJCUVVIQXdFR0NDc0dBUVVGQndNQ0JnZ3JCZ0VGQlFjRApCQVlJS3dZQkJRVUhBd2dHQ2lzR0FRUUJnamNDQVJVR0Npc0dBUVFCZ2pjQ0FSWUdDaXNHQVFRQmdqY0tBd0VHCkNpc0dBUVFCZ2pjS0F3TUdDaXNHQVFRQmdqY0tBd1FHQ1dDR1NBR0crRUlFQVRBT0JnTlZIUThCQWY4RUJBTUMKQVFZd0hRWURWUjBPQkJZRUZLZE1OQ1psbkVhcFNkL1BiTzVmM1Q3bmlEMWJNQTBHQ1NxR1NJYjNEUUVCQ3dVQQpBNElCQVFDYmlpT1lLZ2Z3Z2hHaUhTYzc3b0dUdVovVXpucXphWU5iYWtOZlBWZ0pReDdMNll6YzBSS2hMTVR4CktuOCs4R0hhL0liTE0yUzNtekRJM0VJdFNJc25KSmNQQTlRelA4THVIMUpjRGpqYUpiNHhlOEtpdVBUZEd4MmoKOFZGUldzU3lwN21ENjFUODhYc05PSm12ZWdXenBjSjBVcnZGOW5SdEppZG50VE9jTHpKaW9WZjZTL3JpZUVNZQpXemo2QlBYeTE3bWI5a1JQRVdYTU1lN2NmTEZHeUJ6MGFXNVpsR1p2MFl1V2lpQ3RiS2drN1hRS05SdnpRdWpaClM5dzFucTZqejlGYVNJY1lFaEhQYmJlUXFqc3ZkOWtOVXUzdjdlOGVPU1JTdllPamt6MmtybDdKa2VvdFlId1IKVzNtMU9sY3gwdFVOalVqL0pHY3kycGFXZDFZTQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==
+			</data>
+	    </dict> 
+		<dict>
+	        <key>AutoJoin</key>
+            <true/>
+            <key>CaptiveBypass</key>
+            <false/>
+            <key>EAPClientConfiguration</key>
+            <dict>
+            <key>AcceptEAPTypes</key>
+            <array>
+            <integer>25</integer>
+            </array>
+            <key>OneTimeUserPassword</key>
+            <false/>
+            <key>TLSMaximumVersion</key>
+            <string>1.0</string>
+            <key>TLSMinimumVersion</key>
+            <string>1.0</string>
+            </dict>
+
+            <key>EncryptionType</key>
+            <string>Any</string>
+            <key>HIDDEN_NETWORK</key>
+            <false/>
+            <key>IsHotspot</key>
+            <false/>
+            <key>PayloadDescription</key>
+            <string>Configures Wi-Fi settings</string>
+            <key>PayloadDisplayName</key>
+            <string>Wi-Fi</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.wifi.managed.1C4F9DCE-764B-40BD-9756-DC2AFEC762EF</string>
+            <key>PayloadType</key>
+            <string>com.apple.wifi.managed</string>
+            <key>PayloadUUID</key>
+            <string>1C4F9DCE-764B-40BD-9756-DC2AFEC762EF</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ProxyType</key>
+            <string>Manual</string>
+            <key>SSID_STR</key>
+            <string>XACTWARE</string>
+			<key>ProxyServerPort</key>
+			<integer>8080</integer>
+			<key>ProxyServer</key>
+			<string>jtodd12718.veriskdom.com</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+    <string>AutoConfiguredProxy</string>
+    <key>PayloadIdentifier</key>
+    <string>JTODD12718-5.B2C59BD8-F42F-4C74-A44A-4A9AA7152D46</string>
+    <key>PayloadOrganization</key>
+    <string>XACTWARE</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>B03EA6D3-FBC5-463B-BF0D-93297B782BF2</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
